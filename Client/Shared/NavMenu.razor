@@ -1,0 +1,37 @@
+﻿<Bar
+  Mode="BarMode.VerticalInline"
+  CollapseMode="BarCollapseMode.Small"
+  Breakpoint="Breakpoint.Desktop"
+  NavigationBreakpoint="Breakpoint.Tablet"
+  ThemeContrast="ThemeContrast.Dark"
+>
+  <BarBrand>
+    <BarItem>
+      <BarLink To="">
+        <BarIcon IconName="IconName.Dashboard" />
+        Blazorise Demo
+      </BarLink>
+    </BarItem>
+  </BarBrand>
+  <BarMenu>
+    <BarStart>
+      <BarItem>
+        <BarLink To="todos">
+          <BarIcon IconName="IconName.Dashboard" />
+          ToDo
+        </BarLink>
+      </BarItem>
+    </BarStart>
+  </BarMenu>
+</Bar>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

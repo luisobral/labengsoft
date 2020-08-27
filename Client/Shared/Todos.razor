@@ -1,0 +1,49 @@
+@page "/todos"
+@using BlazorAppProject.Shared
+
+<div class="col-md-12">
+    <h1>Todo List</h1>
+    <Container>
+    <Addons>
+        <Addon AddonType="AddonType.Body">
+            <TextEdit Placeholder="todo" @bind-Text="newTodo" />
+        </Addon>
+        <Addon AddonType="AddonType.End">
+            <Button Color="Color.Primary" @onclick="AddTask">Add</Button>
+        </Addon>
+        </Addons>
+    </Container>
+    <Table>
+    <TableHeader ThemeContrast="ThemeContrast.Light"></TableHeader>
+    <TableBody>
+        @foreach (var item in listaTodo)
+        {
+            <TableRow>
+                <TableRowCell>
+                    <Check TValue="bool" Checked="@item.Feito" id="@item" CheckedChanged="@OnRememberMeChanged"></Check>@item.Titulo </TableRowCell>    
+            </TableRow>
+        }
+    </TableBody>
+</Table>
+</div>
+
+@code{
+    Todo item;
+
+    void OnRememberMeChanged(bool value)
+    {
+        item.Feito = value;
+    }
+
+    public string newTodo { get; set; }
+
+    private void AddTask(){
+        listaTodo.Add(new Todo(){Titulo = newTodo});
+    }
+
+    List<Todo> listaTodo;
+    protected override void OnInitialized()
+    {
+        listaTodo = new List<Todo>();
+    }
+}

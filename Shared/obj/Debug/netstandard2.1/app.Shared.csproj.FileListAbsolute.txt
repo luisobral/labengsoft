@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\app\Shared\bin\Debug\netstandard2.1\app.Shared.deps.json
+C:\Users\User\source\repos\app\Shared\bin\Debug\netstandard2.1\app.Shared.dll
+C:\Users\User\source\repos\app\Shared\bin\Debug\netstandard2.1\app.Shared.pdb
+C:\Users\User\source\repos\app\Shared\obj\Debug\netstandard2.1\app.Shared.csprojAssemblyReference.cache
+C:\Users\User\source\repos\app\Shared\obj\Debug\netstandard2.1\app.Shared.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\app\Shared\obj\Debug\netstandard2.1\app.Shared.AssemblyInfo.cs
+C:\Users\User\source\repos\app\Shared\obj\Debug\netstandard2.1\app.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\app\Shared\obj\Debug\netstandard2.1\app.Shared.dll
+C:\Users\User\source\repos\app\Shared\obj\Debug\netstandard2.1\app.Shared.pdb
