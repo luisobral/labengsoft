@@ -393,8 +393,7 @@ C:\Users\User\source\repos\app\Client\obj\Debug\netstandard2.1\RazorDeclaration\
 C:\Users\User\source\repos\app\Client\obj\Debug\netstandard2.1\Razor\Shared\Todos.razor.g.cs
 C:\Users\User\source\repos\app\Client\obj\Debug\netstandard2.1\integrity\8gQsLEHYPeYvXB9rrj_UVvXNGEOxgPH8RsJxhvtAoW4=.hash
 C:\Users\User\source\repos\app\Client\obj\Debug\netstandard2.1\integrity\ol7mDoDzp5JyJy64Qk4qBVSUhuNRlCpLx86CovscGLM=.hash
-C:\Users\User\source\repos\app\Client\obj\Debug\netstandard2.1\integrity\P7GGbHLr3Hu54VMFNZt5jwdafyCLk3Itd0VgDnNmAgI=.hash
-C:\Users\User\source\repos\app\Client\obj\Debug\netstandard2.1\integrity\rLpD02OulJwAmKHWeLhCjqLn58QXZISUdmiAqiCognw=.hash
-C:\Users\User\source\repos\app\Client\obj\Debug\netstandard2.1\integrity\n7QHupiR3qqDk_Kn6sGiOggBmqQfDUUe8P0cd54_4ag=.hash
-C:\Users\User\source\repos\app\Client\obj\Debug\netstandard2.1\integrity\2y9IXydegFBi17jcISDQnge7FPAcKJpeJ3PjIcmcl9I=.hash
-C:\Users\User\source\repos\app\Client\obj\Debug\netstandard2.1\integrity\LTmOd6Bbm5g3yB5ThXFMwVxkGN8MZJk5LMrlNLKLU24=.hash
+C:\Users\User\source\repos\app\Client\obj\Debug\netstandard2.1\integrity\172OjwlAtUVr7BGVotW1nJJFVg1YMSViSCTqLWGlXdw=.hash
+C:\Users\User\source\repos\app\Client\obj\Debug\netstandard2.1\integrity\aXX2ERqR-QelAd4l3dT9RSOJABJod8W4ROrXUrn5dXU=.hash
+C:\Users\User\source\repos\app\Client\obj\Debug\netstandard2.1\integrity\fLqC36GFAZBC_UTEUPR_lpPzm4-RGZuMtykYxBk--2I=.hash
+C:\Users\User\source\repos\app\Client\obj\Debug\netstandard2.1\integrity\gVFoO7yZYAUPjMjzp3iK4ybpwTUXN71-UelCSTFOso8=.hash
